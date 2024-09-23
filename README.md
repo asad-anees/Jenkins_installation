@@ -1,4 +1,4 @@
-# Jenkins_installation
+# Jenkins_installation on Ubuntu
 Installation of Jenkins on Ubuntu:
 Jenkins is a CI/CD software platform that supports continuous integration (CI) and continuous delivery (CD). It’s used to automate software testing, building, delivery, and deployment. Using Jenkins on Ubuntu creates a powerful management tool that takes a development workflow to the next level.
 
